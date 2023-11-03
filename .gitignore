@@ -1,0 +1,10 @@
+/api.js
+/assets
+/components
+/constants
+/node_modules
+/package-lock.json
+/sanity.js
+/slices
+/theme
+/yarn.lock
